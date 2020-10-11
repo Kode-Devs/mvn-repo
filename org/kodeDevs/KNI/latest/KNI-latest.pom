@@ -17,12 +17,9 @@
     <name>Kode Native Interface</name>
     <distributionManagement>
         <repository>
-            <id>kode.repo</id>
-            <name>Deployment Repository</name>
-            <url>file://C:\Users\dell\Documents\mvn-repo</url>
-            <snapshots>
-                <enabled>true</enabled>
-            </snapshots>
+            <id>mvn-repo</id>
+            <name>Maven Repository - Kode Devs</name>
+            <url>file://${user.home}/mvn-repo</url>
         </repository>
     </distributionManagement>
 </project>
