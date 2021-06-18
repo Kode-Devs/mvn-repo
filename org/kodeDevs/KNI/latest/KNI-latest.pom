@@ -16,6 +16,7 @@
     </properties>
     <name>Kode Native Interface</name>
     <distributionManagement>
+        <!-- Repository for KODE -->
         <repository>
             <id>mvn-repo</id>
             <name>Maven Repository - Kode Devs</name>
